@@ -18,6 +18,7 @@
 * Samsung smart monitor
 * Samsung Galaxy S9+
 * iPad 6th
+* macOS 12 Monterey
 ### Dev
 * VSCode
 * repl.it
