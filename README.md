@@ -1,6 +1,8 @@
 # Hi, I'm froggal!
 KeySpace(froggal), real name is Kim Doeon(Korean name, Family name is Kim), Student developer.
 
+**Now I'm one day one Commiting.**
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=froggal&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=froggal&layout=compact&theme=dark)
 
