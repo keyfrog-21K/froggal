@@ -1,9 +1,10 @@
 # Hi There 👋
-- I'm a Student developer in South Korea 🇰🇷
+- I'm a Student developer from South Korea 🇰🇷
+- He/Him
 - Using Python, HTML, CSS and JS.
 - Leaning Vue.js, React, Node.js, Linux (Ubuntu), and Database.
 - One day one Commiting 🛠
-- Using Visual Studio Code, PyCharm.
+- Using Visual Studio Code, PyCharm, and Repl.it
 
 <br>
 
