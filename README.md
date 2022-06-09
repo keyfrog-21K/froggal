@@ -4,7 +4,7 @@
 - Using Python, HTML, CSS and JS.
 - Leaning Vue.js, React, Node.js, Linux (Ubuntu), and Database.
 - One day one Commiting 🛠
-- Using Visual Studio Code, PyCharm, and Repl.it
+- Using Visual Studio Code, PyCharm, and Repl.it!
 
 <br>
 
