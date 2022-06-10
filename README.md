@@ -8,5 +8,6 @@
 
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=froggal)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=froggal&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=froggal&layout=compact&theme=dark)
