@@ -2,7 +2,7 @@
 - I'm a Student developer from South Korea 🇰🇷
 - He/Him
 - Using Python, HTML, CSS and JS.
-- Leaning Vue.js, React, Node.js, Linux (Ubuntu), and Database.
+- Leaning Vue.js, React, Node.js, Linux (Ubuntu), and MongoDB.
 - One day one Commiting 🛠
 - Using Visual Studio Code, PyCharm, and Repl.it!
 
