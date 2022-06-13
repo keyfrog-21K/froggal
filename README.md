@@ -5,6 +5,7 @@
 - Leaning Vue.js, React, Node.js, Linux (Ubuntu), and MongoDB.
 - One day one Commiting 🛠
 - Using Visual Studio Code, PyCharm, and Repl.it!
+- Using macOS 12, Ubuntu 22 LTS.
 
 <br>
 
