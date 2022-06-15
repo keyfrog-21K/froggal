@@ -6,6 +6,7 @@
 - One day one Commiting 🛠
 - Using Visual Studio Code, PyCharm, and Repl.it!
 - Using macOS 12, Ubuntu 22 LTS.
+- [Send Email](mailto:ks_21k@naver.com) [Discord - froggal#2188](https://discord.com/users/906351533426356226)
 
 <br>
 
