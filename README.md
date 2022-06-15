@@ -1,12 +1,13 @@
 # Hi There 👋
 - I'm a Student developer from South Korea 🇰🇷
 - He/Him
+- My birthday is 06/16/2011 🎂
 - Using Python, HTML, CSS and JS.
 - Leaning Vue.js, React, Node.js, Linux (Ubuntu), and MongoDB.
 - One day one Commiting 🛠
 - Using Visual Studio Code, PyCharm, and Repl.it!
 - Using macOS 12, Ubuntu 22 LTS.
-- [Send Email](mailto:ks_21k@naver.com) | [Discord - froggal#2188](https://discord.com/users/906351533426356226)
+- [Send Email](mailto:ks_21k@naver.com) | [Discord - KeyFroggal21K](https://discord.com/users/906351533426356226)
 
 <br>
 
