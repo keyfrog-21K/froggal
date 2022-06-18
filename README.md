@@ -4,7 +4,7 @@
 - My birthday is 06/16/2011 🎂
 - Using Python, HTML, CSS and JS.
 - Leaning Vue.js, React, Node.js, Linux (Ubuntu), and MongoDB.
-- One day one Commiting 🛠
+- Now one day one Commiting 🛠
 - Using Visual Studio Code, PyCharm, and Repl.it!
 - Using macOS 12, Ubuntu 22 LTS.
 - [Send Email](mailto:ks_21k@naver.com) | [Discord - KeyFroggal21K#2188](https://discord.com/users/906351533426356226)
