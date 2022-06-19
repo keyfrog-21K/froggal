@@ -17,3 +17,5 @@
 
 # Contact 📞
 [![Gmail Badge](https://img.shields.io/badge/-ks_21k@naver.com-0EB493?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ks_21k@naver.com)](mailto:ks_21k@naver.com)
+
+[![Discord](https://discord.c99.nl/widget/theme-4/906351533426356226.png)](http://discord.com/users/906351533426356226)
