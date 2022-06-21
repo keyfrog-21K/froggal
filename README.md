@@ -16,4 +16,4 @@
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=froggal&langs_count=8&show_icons=true&count_private=true&bg_color=111111&hide_border=true&text_color=ffffff)
 
 # Contact 📞
-- [Send Email](mailto:ks_21k@naver.com) | [Discord - KeyFroggal21K#2188](https://discord.com/users/906351533426356226)
+- [Email - ks_21k@naver.com](mailto:ks_21k@naver.com) | [Discord - KeyFroggal21K#2188](https://discord.com/users/906351533426356226)
