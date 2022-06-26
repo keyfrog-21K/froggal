@@ -17,4 +17,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=froggal)](https://solved.ac/froggal)
 
 # Contact 📞
-- [Email - 'ks_21k@naver.com'](mailto:ks_21k@naver.com) | [Discord - 'KeyFroggal21K#2188'](https://discord.com/users/906351533426356226)
+- [Email - `ks_21k@naver.com`](mailto:ks_21k@naver.com) | [Discord - `KeyFroggal21K#2188`](https://discord.com/users/906351533426356226)
