@@ -19,4 +19,4 @@
 
 # Contact 📞
 - [Email - `ks_21k@naver.com`](mailto:ks_21k@naver.com) | [Discord - `KeyFroggal21K#2188`](https://discord.com/users/906351533426356226)
-[![Discord](https://discord.c99.nl/widget/theme-4/798690702635827200.png)](http://discord.com/users/906351533426356226)
+[![Discord](https://discord.c99.nl/widget/theme-4/906351533426356226.png)](http://discord.com/users/906351533426356226)
