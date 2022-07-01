@@ -8,7 +8,7 @@
 - Now one day one Commiting 🛠
 - Using Visual Studio Code, PyCharm, and Repl.it!
 - Using macOS 12, Ubuntu 22 LTS.
-- BakJoon User. [Repo](https://github.com/froggal/BakJoon), ID: froggal
+- BakJoon User. [Solved Repo](https://github.com/froggal/BakJoon), ID: froggal
 
 # Stats 📊
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=froggal&theme=dark)](https://git.io/streak-stats)
