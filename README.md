@@ -5,7 +5,7 @@
 - MBTI: ENTP-T 💜
 - Using Python, HTML, CSS and JS.
 - Leaning Vue.js, React, Node.js, Linux (Ubuntu), and DB (Mongo).
-- Now one day one Commiting 🛠
+- Now I'm one day one Commiting 🛠
 - Using Visual Studio Code, PyCharm, and Repl.it!
 - Using macOS 12, Ubuntu 22 LTS.
 - BakJoon User. [Solved Repo](https://github.com/froggal/BakJoon), ID: froggal.
