@@ -1,7 +1,7 @@
 # Hi There 👋
 - I'm a Student developer from South Korea 🇰🇷
 - He/Him
-- My birthday is 06/16/2011 🎂
+- Birthday: 06/16/2011 🎂
 - MBTI: ENTP-T 💜
 - Using Python, HTML, CSS and JS.
 - Leaning Vue.js, React, Node.js, Linux (Ubuntu), and DB (Mongo).
