@@ -22,3 +22,5 @@
 - [Email - `ks_21k@naver.com`](mailto:ks_21k@naver.com) | [Discord - `KeyFroggal21K#2022`](https://discord.com/users/906351533426356226)
 
 [![Discord](https://discord.c99.nl/widget/theme-4/906351533426356226.png)](http://discord.com/users/906351533426356226)
+<br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31owf7nalxg5ygrkknwlj4uk6jbq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
