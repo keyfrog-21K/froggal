@@ -10,6 +10,7 @@
 - Using macOS 12, Ubuntu 22 LTS.
 - BakJoon User. [Solved Repo](https://github.com/froggal/BakJoon), ID: froggal.
 - My homepage: https://kspage.ga
+- Blog: https://blog.naver.com/ks_21k
 # Stats 📊
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=froggal&theme=dark)](https://git.io/streak-stats)
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=froggal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
