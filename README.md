@@ -1,7 +1,7 @@
 ## 👋 Hi There
 - 🇰🇷 Student Developer from Republic of Korea.
 - 🎂 06/16
-- 💜 ISTP
+- 💜 INTP
 
 ## 🛠 Tools
 -  ⌨ Python, JavaScript
