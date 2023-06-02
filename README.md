@@ -2,6 +2,7 @@
 - 🇰🇷 Student Developer from Republic of Korea.
 - 🎂 06/16
 - 💜 INTP
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31vjvwx3uba2fo4ynwc5d4amyksq)
 
 ## 🛠 Tools
 -  ⌨ Python, JavaScript
