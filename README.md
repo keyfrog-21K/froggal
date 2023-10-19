@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer:%20froggal();&fontSize=90)
 
+[![wakatime](https://wakatime.com/badge/github/froggal/froggal.svg)](https://wakatime.com/badge/github/froggal/froggal)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
