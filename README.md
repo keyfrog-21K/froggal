@@ -5,7 +5,7 @@
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtubemusic&logoColor=ffffff)](https://music.youtube.com/channel/UCnB7L_GaODkUUPBV6C6yZtA?si=mKLHeBRBlPti3xD)
 - ☺️ Student developer from **Republic of Korea**.
 - 🤍 INTJ, 🎉 06.16
-- ✨ Interested in **Full-Stack Web Develoment** and **Python**.
+- ✨ Interested in **Full-Stack Web Develoment**, **Python**, and **Linux Server**.
 - 🧑‍💻 Apple fan!
 
 ## Stats
